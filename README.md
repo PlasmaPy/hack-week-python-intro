@@ -2,6 +2,8 @@
 
 A repository for Python tutorials to be held on June 21 and 22, 2021.
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PlasmaPy/hack-week-python-intro/HEAD)
+
 ## License and acknowledgments
 
 This tutorial is adapted from Software Carpentry's [Programming with Python
